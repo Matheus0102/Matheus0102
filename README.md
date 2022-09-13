@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Matheus sou estudante da area de T.i, tenho 21 anos, sou residente da cidade de Suzano, São Paulo.
 - 👀 Estou interessado em aprender mais sobre esta areá com um foco mais em programação Front-end e Back-end, aceito e estudo convites de emprego como júnior.
-- 🌱 Atualmente estou aprendendo tecnologias de front-end: TypeScript, Framework Angular.
+- 🌱 Atualmente estou aprendendo tecnologias de front-end: TypeScript, Framework Angular, e interações com APIs.
 - 💞️ Procuro colaborar comigo mesmo, focando no estudos das tecnologias mais usadas atualmente, procurando ter um crescimento acadêmico e profissonal continuo, se aceito em alguma vaga de emprego desejo colocar tudo que sei em pratica e me esforçar para o crescimento da empresa e o meu, procurando sempre estar em continuo aprendizado.
 
 - 📫 Saiba como me contatar: 
