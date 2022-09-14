@@ -1,12 +1,12 @@
-- 👋 Olá, me chamo Matheus sou estudante da area de T.i, tenho 21 anos, sou residente da cidade de Suzano, São Paulo.
-- 👀 Estou interessado em aprender mais sobre esta areá com um foco mais em programação Front-end e Back-end, aceito e estudo convites de emprego como júnior.
-- 🌱 Atualmente estou aprendendo tecnologias de front-end: TypeScript, Framework Angular, e interações com APIs.
-- 💞️ Procuro colaborar comigo mesmo, focando no estudos das tecnologias mais usadas atualmente, procurando ter um crescimento acadêmico e profissonal continuo, se aceito em alguma vaga de emprego desejo colocar tudo que sei em pratica e me esforçar para o crescimento da empresa e o meu, procurando sempre estar em continuo aprendizado.
+- 👋 Hello, my name is Matheus, I'm a student in the IT area, I'm 21 years old, I live in the city of Suzano, São Paulo.
+- 👀 I'm interested in learning more about this are with a more focus on Front-end and Back-end programming, accepting and studying job invitations as a junior.
+- 🌱 I'm currently learning front-end technologies: TypeScript, Angular Framework, and API interactions.
+- 💞️ I try to collaborate with myself, focusing on the studies of the most used technologies today, trying to have a continuous academic and professional growth, if I accept a job vacancy I want to put everything I know into practice and strive for the growth of the company and mine, looking for always be in continuous learning.
 
-- 📫 Saiba como me contatar: 
--      Celular: (55) 11 93001-8206
--      E-mail: matheus.150miranda@gmail.com
--      Perfil LinkedIn: https://www.linkedin.com/in/matheus-augusto-miranda-garcia-758a29182
+- 📫 Find out how to contact me: 
+-      Cell: (55) 11 93001-8206
+-      Email: matheus.150miranda@gmail.com
+-      LinkedIn Profile: https://www.linkedin.com/in/matheus-augusto-miranda-garcia-758a29182
         
   <div align="center">
       <a href="https://github.com/Matheus0102">
