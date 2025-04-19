@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Matheus, I'm a student in the IT area, I'm 21 years old, I live in the city of Suzano, São Paulo.
+- 👋 Hello, my name is Matheus, I'm a student in the IT area, I'm 23 years old, I live in the city of Suzano, São Paulo.
 - 👀 I'm interested in learning more about this are with a more focus on Front-end and Back-end programming, accepting and studying job invitations as a junior.
 - 🌱 I'm currently learning front-end technologies: TypeScript, Angular Framework, and API interactions.
 - 💞️ I try to collaborate with myself, focusing on the studies of the most used technologies today, trying to have a continuous academic and professional growth, if I accept a job vacancy I want to put everything I know into practice and strive for the growth of the company and mine, looking for always be in continuous learning.
